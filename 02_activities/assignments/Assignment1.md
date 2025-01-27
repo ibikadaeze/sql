@@ -204,6 +204,15 @@ Link if you encounter a paywall: https://web.archive.org/web/20240422105834/http
 Consider, for example, concepts of fariness, inequality, social structures, marginalization, intersection of technology and society, etc.
 
 
-```
-Your thoughts...
-```
+Values Embedded in Databases and Data Systems
+
+Databases reflect societal norms and priorities, often embedding values that impact fairness, inequality, and social structures. For example:
+
+1. Fairness vs. Marginalization: Standardized categories in databases (e.g., binary gender options) can marginalize diverse identities, reinforcing societal biases.
+2. Surveillance vs. Privacy: Many systems prioritize oversight, collecting vast personal data for efficiency, often at the cost of user privacy.
+3. Bias in Decision-Making: Algorithms trained on biased data perpetuate inequalities, as seen in hiring platforms or predictive policing systems that disproportionately target marginalized communities.
+4. Control and Inclusion: Systems often exclude underrepresented groups, such as undocumented individuals or non-traditional family structures, mirroring and amplifying existing societal inequities.
+5. Economic Prioritization: Many databases prioritize profit over ethics, promoting consumption while sidelining sustainability or fairness.
+
+These systems not only reflect societal values but also shape perceptions and social structures, requiring conscious efforts to design inclusive and equitable technology.
+
