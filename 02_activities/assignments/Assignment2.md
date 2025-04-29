@@ -54,7 +54,7 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 **HINT:** search type 1 vs type 2 slowly changing dimensions. 
 
 ```
-Your answer...
+Type 1 architecture overwrites the database while Type 2 retains the changes.
 ```
 
 ***
@@ -178,9 +178,28 @@ Read: Boykis, V. (2019, October 16). _Neural nets are just people all the way do
 
 **What are the ethical issues important to this story?**
 
+```
 Consider, for example, concepts of labour, bias, LLM proliferation, moderating content, intersection of technology and society, ect. 
 
+Bias: Neural networks, like humans, inherit biases from their training data. 
+If the data is skewed, incomplete, or representative of harmful societal biases, 
+these flaws become embedded in the models.
+This creates ethical concerns around fairness, particularly in applications affecting marginalized communities, 
+such as hiring, policing, or lending practices.
 
-```
-Your thoughts...
+Labour: Building and training AI models often involves unseen labour, such as data labeling and moderation, 
+which is frequently outsourced to workers in low-income regions. These workers endure exploitative conditions, 
+low wages, and psychological harm from moderating graphic content.
+Ethical AI development requires acknowledging and addressing the inequities in this hidden labour ecosystem. 
+
+LLM proliferation: The rapid proliferation of large language models (LLMs) raises questions about their unchecked 
+use in industries like journalism, education, and content generation.
+This has implications for misinformation, plagiarism, and the devaluation of creative and intellectual work. 
+
+Technology and Society: AI systems are not neutral—they reflect and amplify the values of their creators and the societies that shape them. 
+This poses challenges in how technology influences societal norms and behaviors, especially in reinforcing existing power structures.
+The ethical obligation is to ensure AI systems benefit everyone equitably, rather than exacerbating systemic inequalities.
+
+Humanizing AI: Likening AI to "people," can mislead the public about the limitations and capabilities of AI.
+This raises ethical questions about how we communicate AI's role and capabilities to non-expert audiences to avoid over-reliance or misplaced trust.
 ```
